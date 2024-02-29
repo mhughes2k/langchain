@@ -97,6 +97,7 @@ __all__ = [
     "LlamaIndexRetriever",
     "MetalRetriever",
     "MilvusRetriever",
+    "MoodleRetriever",
     "OutlineRetriever",
     "PineconeHybridSearchRetriever",
     "PubMedRetriever",
